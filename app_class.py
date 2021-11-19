@@ -1,4 +1,4 @@
-import pygame, sys, requests
+
 import pygame, sys
 import requests
 from bs4 import BeautifulSoup
